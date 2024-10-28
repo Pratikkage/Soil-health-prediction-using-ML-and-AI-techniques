@@ -1,4 +1,4 @@
-# 🌱 Soil Property Prediction Using Machine Learning
+# 🌱 Soil Health Prediction Using Machine Learning
 
 ## 📖 Overview
 India's agricultural sector, crucial to its economy and food security, relies heavily on soil quality. However, the overuse of chemical fertilizers has led to soil degradation, impacting crop yield and sustainability. 
