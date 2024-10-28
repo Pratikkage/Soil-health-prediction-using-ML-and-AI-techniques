@@ -1,7 +1,8 @@
 # 🌱 Soil Property Prediction Using Machine Learning
 
 ## 📖 Overview
-India's agricultural sector, crucial to its economy and food security, relies heavily on soil quality. However, the overuse of chemical fertilizers has led to soil degradation, impacting crop yield and sustainability. This project uses machine learning to predict key soil properties—**Calcium**, **Phosphorus**, **pH**, **Soil Organic Carbon**, and **Sand**—from spectroscopy data. Accurate soil property predictions help farmers make informed decisions about fertilizer application, supporting sustainable agriculture and resource use.
+India's agricultural sector, crucial to its economy and food security, relies heavily on soil quality. However, the overuse of chemical fertilizers has led to soil degradation, impacting crop yield and sustainability. 
+This project uses machine learning to predict key soil properties—**Calcium**, **Phosphorus**, **pH**, **Soil Organic Carbon**, and **Sand**—from spectroscopy data. Accurate soil property predictions help farmers make informed decisions about fertilizer application, supporting sustainable agriculture and resource use.
 
 ## 🎯 Purpose
 This project aims to:
